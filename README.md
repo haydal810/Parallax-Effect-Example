@@ -1,0 +1,1 @@
+Code Snippet for Parallax Effect
